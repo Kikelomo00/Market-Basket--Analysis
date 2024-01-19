@@ -1,4 +1,4 @@
-# Market Baskey Analysis for E-commerce
+# Market Basket Analysis for E-commerce
 
 ## I. Introduction
 ## 1. Market Basket Analysis
